@@ -57,7 +57,7 @@ public class FragmentContainerInfo extends Fragment {
     @Override
     public void onActivityCreated(Bundle savedInstanceState) {
         super.onActivityCreated(savedInstanceState);
-        updateIndex(index);
+        updateContent(index);
         setDescription(index);
 
     }
@@ -75,9 +75,9 @@ public class FragmentContainerInfo extends Fragment {
     }
 
     /**
-     * Method to update index from activity
+     * Method to update content 
      */
-    public void updateIndex(int _index) {
+    public void updateContent(int _index) {
         index = _index;
         setLanguageImage(index);
         setDescription(index);
@@ -90,18 +90,25 @@ public class FragmentContainerInfo extends Fragment {
         Bundle arguments = getArguments();
         if (arguments != null) {
             index = arguments.getInt("index");
-            updateIndex(index);
+            updateContent(index);
         }
         bundle.putInt("index", index);
     }
-
+    
+    /**
+    * Method to change image 
+    */
     private void setLanguageImage(int index) {
         int resourceImage = getImageResource(index);
         if (resourceImage != 0) {
             containerLanguageImage.setImageResource(resourceImage);
         }
     }
-
+	
+    
+    /**
+     * Method to get image resource from array 
+     */
     private int getImageResource(int index) {
         TypedArray languagesImages = getActivity().getResources().obtainTypedArray(R.array.languagesImages);
         if (languagesImages != null) {
@@ -110,7 +117,11 @@ public class FragmentContainerInfo extends Fragment {
             return 0;
         }
     }
-
+    
+    
+    /**
+     * Method to set language description
+     */
     private void setDescription(int index){
         String [] languagesDescriptions = getActivity().getResources().getStringArray(R.array.languages_description);
         languageDescription.setText(languagesDescriptions[index]);
