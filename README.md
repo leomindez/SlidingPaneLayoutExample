@@ -1,0 +1,4 @@
+SlidingPaneLayoutExample
+========================
+
+SlidingPaneLayout example.
