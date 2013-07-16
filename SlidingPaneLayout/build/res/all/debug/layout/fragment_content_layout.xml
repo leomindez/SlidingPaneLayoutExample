@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent">
+
+    <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:id="@+id/image_container"
+            android:scaleType="fitXY"
+            android:layout_margin="@dimen/image_margin"
+            android:layout_gravity="center"
+            android:src="@drawable/java"/>
+
+    <LinearLayout
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:layout_width="match_parent"
+
+            android:background="@color/background_text_container"
+
+            android:layout_margin="@dimen/image_margin">
+
+        <TextView
+                android:id="@+id/text_container"
+                android:layout_width="match_parent"
+                android:textStyle="bold"
+                android:textSize="@dimen/text_size"
+                android:padding="@dimen/padding_text_container"
+                android:layout_height="match_parent"></TextView>
+
+
+    </LinearLayout>
+
+</LinearLayout><!-- From: /home/leo/Documentos/Android/SlidingPaneLayoutProject/SlidingPaneLayout/src/main/res/layout/fragment_content_layout.xml -->

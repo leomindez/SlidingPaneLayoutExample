@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: /home/leo/Documentos/Android/SlidingPaneLayoutProject/SlidingPaneLayout/src/main/res/values-sw600dp/dimens.xml -->
+    <dimen name="image_margin">30dp</dimen>
+    <dimen name="padding_text_container">7dp</dimen>
+    <dimen name="sliding_pane_width">350dp</dimen>
+    <dimen name="text_size">20sp</dimen>
+
+</resources>

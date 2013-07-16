@@ -1,0 +1,387 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="/home/leo/Documentos/Android/SlidingPaneLayoutProject/SlidingPaneLayout/src/main/res" >
+            <file
+                name="fragment_content_layout"
+                path="/home/leo/Documentos/Android/SlidingPaneLayoutProject/SlidingPaneLayout/src/main/res/layout/fragment_content_layout.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="fragment_list_layout"
+                path="/home/leo/Documentos/Android/SlidingPaneLayoutProject/SlidingPaneLayout/src/main/res/layout/fragment_list_layout.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="activity_main"
+                path="/home/leo/Documentos/Android/SlidingPaneLayoutProject/SlidingPaneLayout/src/main/res/layout/activity_main.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="sliding_pane_shadow"
+                path="/home/leo/Documentos/Android/SlidingPaneLayoutProject/SlidingPaneLayout/src/main/res/drawable-hdpi/sliding_pane_shadow.9.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="c++"
+                path="/home/leo/Documentos/Android/SlidingPaneLayoutProject/SlidingPaneLayout/src/main/res/drawable-hdpi/c++.jpg"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="javascript"
+                path="/home/leo/Documentos/Android/SlidingPaneLayoutProject/SlidingPaneLayout/src/main/res/drawable-hdpi/javascript.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/home/leo/Documentos/Android/SlidingPaneLayoutProject/SlidingPaneLayout/src/main/res/drawable-hdpi/ic_launcher.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="python"
+                path="/home/leo/Documentos/Android/SlidingPaneLayoutProject/SlidingPaneLayout/src/main/res/drawable-hdpi/python.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="java"
+                path="/home/leo/Documentos/Android/SlidingPaneLayoutProject/SlidingPaneLayout/src/main/res/drawable-hdpi/java.jpg"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="c"
+                path="/home/leo/Documentos/Android/SlidingPaneLayoutProject/SlidingPaneLayout/src/main/res/drawable-hdpi/c.jpg"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ruby"
+                path="/home/leo/Documentos/Android/SlidingPaneLayoutProject/SlidingPaneLayout/src/main/res/drawable-hdpi/ruby.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                path="/home/leo/Documentos/Android/SlidingPaneLayoutProject/SlidingPaneLayout/src/main/res/values-sw720dp/dimens.xml"
+                qualifiers="sw720dp" >
+                <dimen name="container_text_margin" >55dp
+                </dimen>
+                <dimen name="text_size" >23sp
+                </dimen>
+                <dimen name="sliding_pane_width" >350dp
+                </dimen>
+                <dimen name="padding_text_container" >9dp
+                </dimen>
+                <dimen name="image_margin" >45dp
+                </dimen>
+            </file>
+            <file
+                path="/home/leo/Documentos/Android/SlidingPaneLayoutProject/SlidingPaneLayout/src/main/res/values-sw720dp-land/dimens.xml"
+                qualifiers="sw720dp-land" >
+                <dimen name="padding_text_container" >9dp
+                </dimen>
+                <dimen name="activity_horizontal_margin" >128dp
+                </dimen>
+                <dimen name="text_size" >25sp
+                </dimen>
+                <dimen name="image_margin" >35dp
+                </dimen>
+                <dimen name="container_text_margin" >45dp
+                </dimen>
+            </file>
+            <file
+                name="sliding_pane_shadow"
+                path="/home/leo/Documentos/Android/SlidingPaneLayoutProject/SlidingPaneLayout/src/main/res/drawable-xhdpi/sliding_pane_shadow.9.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="c++"
+                path="/home/leo/Documentos/Android/SlidingPaneLayoutProject/SlidingPaneLayout/src/main/res/drawable-xhdpi/c++.jpg"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="javascript"
+                path="/home/leo/Documentos/Android/SlidingPaneLayoutProject/SlidingPaneLayout/src/main/res/drawable-xhdpi/javascript.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/home/leo/Documentos/Android/SlidingPaneLayoutProject/SlidingPaneLayout/src/main/res/drawable-xhdpi/ic_launcher.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="python"
+                path="/home/leo/Documentos/Android/SlidingPaneLayoutProject/SlidingPaneLayout/src/main/res/drawable-xhdpi/python.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="java"
+                path="/home/leo/Documentos/Android/SlidingPaneLayoutProject/SlidingPaneLayout/src/main/res/drawable-xhdpi/java.jpg"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="c"
+                path="/home/leo/Documentos/Android/SlidingPaneLayoutProject/SlidingPaneLayout/src/main/res/drawable-xhdpi/c.jpg"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="ruby"
+                path="/home/leo/Documentos/Android/SlidingPaneLayoutProject/SlidingPaneLayout/src/main/res/drawable-xhdpi/ruby.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                path="/home/leo/Documentos/Android/SlidingPaneLayoutProject/SlidingPaneLayout/src/main/res/values-sw600dp/dimens.xml"
+                qualifiers="sw600dp" >
+                <dimen name="sliding_pane_width" >350dp
+                </dimen>
+                <dimen name="text_size" >20sp
+                </dimen>
+                <dimen name="image_margin" >30dp
+                </dimen>
+                <dimen name="container_text_margin" >35dp
+                </dimen>
+                <dimen name="padding_text_container" >7dp
+                </dimen>
+            </file>
+            <file
+                path="/home/leo/Documentos/Android/SlidingPaneLayoutProject/SlidingPaneLayout/src/main/res/values-v11/styles.xml"
+                qualifiers="v11" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Holo.Light" >
+
+                    <!-- API 11 theme customizations can go here. -->
+                </style>
+            </file>
+            <file
+                name="main"
+                path="/home/leo/Documentos/Android/SlidingPaneLayoutProject/SlidingPaneLayout/src/main/res/menu/main.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="sliding_pane_shadow"
+                path="/home/leo/Documentos/Android/SlidingPaneLayoutProject/SlidingPaneLayout/src/main/res/drawable-mdpi/sliding_pane_shadow.9.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="c++"
+                path="/home/leo/Documentos/Android/SlidingPaneLayoutProject/SlidingPaneLayout/src/main/res/drawable-mdpi/c++.jpg"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="javascript"
+                path="/home/leo/Documentos/Android/SlidingPaneLayoutProject/SlidingPaneLayout/src/main/res/drawable-mdpi/javascript.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/home/leo/Documentos/Android/SlidingPaneLayoutProject/SlidingPaneLayout/src/main/res/drawable-mdpi/ic_launcher.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="python"
+                path="/home/leo/Documentos/Android/SlidingPaneLayoutProject/SlidingPaneLayout/src/main/res/drawable-mdpi/python.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="java"
+                path="/home/leo/Documentos/Android/SlidingPaneLayoutProject/SlidingPaneLayout/src/main/res/drawable-mdpi/java.jpg"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="c"
+                path="/home/leo/Documentos/Android/SlidingPaneLayoutProject/SlidingPaneLayout/src/main/res/drawable-mdpi/c.jpg"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ruby"
+                path="/home/leo/Documentos/Android/SlidingPaneLayoutProject/SlidingPaneLayout/src/main/res/drawable-mdpi/ruby.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                path="/home/leo/Documentos/Android/SlidingPaneLayoutProject/SlidingPaneLayout/src/main/res/values/arrays.xml"
+                qualifiers="" >
+                <string-array name="languages_description" >
+                    <item>
+Java fue originalmente desarrollado por James Gosling de Sun Microsystems.  Las aplicaciones de Java son generalmente compiladas a bytecode (clase Java) que puede ejecutarse en cualquier máquina virtual Java (JVM) sin importar la arquitectura de la computadora.
+                    </item>
+                    <item>
+C es un lenguaje de programación creado en 1972 por Dennis M. Ritchie en los Laboratorios Bell. C es apreciado por la eficiencia del código que produce y es el lenguaje de programación más popular para crear software de sistemas.
+                    </item>
+                    <item>
+Python fue creado a finales de los ochenta por Guido van Rossum en el Centro para las Matemáticas y la Informática (CWI, Centrum Wiskunde and Informatica). Python es un lenguaje de programación interpretado cuya filosofía hace hincapié en una sintaxis muy limpia. 
+                    </item>
+                    <item>
+Ruby es un lenguaje de programación interpretado, reflexivo y orientado a objetos, creado por el programador japonés Yukihiro "Matz" Matsumoto. El creador del lenguaje, Yukihiro "Matz" Matsumoto, ha dicho que Ruby está diseñado para la productividad y la diversión del desarrollador.
+                    </item>
+                    <item>
+JavaScript fue desarrollado originalmente por Brendan Eich de Netscape con el nombre de Mocha. JavaScript es un lenguaje de programación interpretado, dialecto del estándar ECMAScript. Se define como orientado a objetos,3 basado en prototipos, imperativo, débilmente tipado y dinámico.
+                    </item>
+                    <item>
+C++ es un lenguaje de programación diseñado a mediados de los años 1980 por Bjarne Stroustrup.  La intención de su creación fue el extender al exitoso lenguaje de programación C con mecanismos que permitan la manipulación de objetos.
+                    </item>
+                </string-array>
+                <string-array name="languages" >
+                    <item>
+Java
+                    </item>
+                    <item>
+C
+                    </item>
+                    <item>
+Python
+                    </item>
+                    <item>
+Ruby
+                    </item>
+                    <item>
+JavaScript
+                    </item>
+                    <item>
+C++
+                    </item>
+                </string-array>
+
+                <array name="languagesImages" >
+                    <item>
+@drawable/java
+                    </item>
+                    <item>
+@drawable/c
+                    </item>
+                    <item>
+@drawable/python
+                    </item>
+                    <item>
+@drawable/ruby
+                    </item>
+                    <item>
+@drawable/javascript
+                    </item>
+                    <item>
+@drawable/cpp
+                    </item>
+                </array>
+            </file>
+            <file
+                path="/home/leo/Documentos/Android/SlidingPaneLayoutProject/SlidingPaneLayout/src/main/res/values/styles.xml"
+                qualifiers="" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Light" >
+
+                    <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+                    -->
+                </style>
+
+                <style
+                    name="AppTheme"
+                    parent="AppBaseTheme" >
+
+                    <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+                </style>
+            </file>
+            <file
+                path="/home/leo/Documentos/Android/SlidingPaneLayoutProject/SlidingPaneLayout/src/main/res/values/strings.xml"
+                qualifiers="" >
+                <string name="action_settings" >Settings
+                </string>
+                <string name="app_name" >SlidingPaneLayout
+                </string>
+                <string name="hello_world" >Hello world!
+                </string>
+            </file>
+            <file
+                path="/home/leo/Documentos/Android/SlidingPaneLayoutProject/SlidingPaneLayout/src/main/res/values/dimens.xml"
+                qualifiers="" >
+                <dimen name="padding_text_container" >5dp
+                </dimen>
+                <dimen name="sliding_pane_width" >200dp
+                </dimen>
+                <dimen name="activity_horizontal_margin" >16dp
+                </dimen>
+                <dimen name="text_size" >17sp
+                </dimen>
+                <dimen name="activity_vertical_margin" >16dp
+                </dimen>
+                <dimen name="image_margin" >10dp
+                </dimen>
+                <dimen name="container_text_margin" >5dp
+                </dimen>
+            </file>
+            <file
+                name="sliding_pane_shadow"
+                path="/home/leo/Documentos/Android/SlidingPaneLayoutProject/SlidingPaneLayout/src/main/res/drawable-xxhdpi/sliding_pane_shadow.9.png"
+                qualifiers="xxhdpi"
+                type="drawable" />
+            <file
+                name="c++"
+                path="/home/leo/Documentos/Android/SlidingPaneLayoutProject/SlidingPaneLayout/src/main/res/drawable-xxhdpi/c++.jpg"
+                qualifiers="xxhdpi"
+                type="drawable" />
+            <file
+                name="javascript"
+                path="/home/leo/Documentos/Android/SlidingPaneLayoutProject/SlidingPaneLayout/src/main/res/drawable-xxhdpi/javascript.png"
+                qualifiers="xxhdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/home/leo/Documentos/Android/SlidingPaneLayoutProject/SlidingPaneLayout/src/main/res/drawable-xxhdpi/ic_launcher.png"
+                qualifiers="xxhdpi"
+                type="drawable" />
+            <file
+                name="python"
+                path="/home/leo/Documentos/Android/SlidingPaneLayoutProject/SlidingPaneLayout/src/main/res/drawable-xxhdpi/python.png"
+                qualifiers="xxhdpi"
+                type="drawable" />
+            <file
+                name="java"
+                path="/home/leo/Documentos/Android/SlidingPaneLayoutProject/SlidingPaneLayout/src/main/res/drawable-xxhdpi/java.jpg"
+                qualifiers="xxhdpi"
+                type="drawable" />
+            <file
+                name="c"
+                path="/home/leo/Documentos/Android/SlidingPaneLayoutProject/SlidingPaneLayout/src/main/res/drawable-xxhdpi/c.jpg"
+                qualifiers="xxhdpi"
+                type="drawable" />
+            <file
+                name="ruby"
+                path="/home/leo/Documentos/Android/SlidingPaneLayoutProject/SlidingPaneLayout/src/main/res/drawable-xxhdpi/ruby.png"
+                qualifiers="xxhdpi"
+                type="drawable" />
+            <file
+                name="cpp"
+                path="/home/leo/Documentos/Android/SlidingPaneLayoutProject/SlidingPaneLayout/src/main/res/drawable-xhdpi/cpp.jpg"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="cpp"
+                path="/home/leo/Documentos/Android/SlidingPaneLayoutProject/SlidingPaneLayout/src/main/res/drawable-mdpi/cpp.jpg"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="cpp"
+                path="/home/leo/Documentos/Android/SlidingPaneLayoutProject/SlidingPaneLayout/src/main/res/drawable-xxhdpi/cpp.jpg"
+                qualifiers="xxhdpi"
+                type="drawable" />
+            <file
+                name="cpp"
+                path="/home/leo/Documentos/Android/SlidingPaneLayoutProject/SlidingPaneLayout/src/main/res/drawable-hdpi/cpp.jpg"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                path="/home/leo/Documentos/Android/SlidingPaneLayoutProject/SlidingPaneLayout/src/main/res/values/colors.xml"
+                qualifiers="" >
+                <color name="background_text_container" >#f5fafa
+                </color>
+            </file>
+        </source>
+        <source path="/home/leo/Documentos/Android/SlidingPaneLayoutProject/SlidingPaneLayout/build/res/rs/debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/home/leo/Documentos/Android/SlidingPaneLayoutProject/SlidingPaneLayout/src/debug/res" />
+    </dataSet>
+
+</merger>

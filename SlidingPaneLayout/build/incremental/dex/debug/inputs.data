@@ -1,0 +1,20 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1373845841000 349 9876968fe728a8b6309f98f4ed64500bd9e16fbd /home/leo/Documentos/Android/SlidingPaneLayoutProject/SlidingPaneLayout/build/classes/debug/com/dldev/activities/BuildConfig.class
+1373953598000 478 e1d27fbd015d3764f96ccee5e8411ff65bc57a88 /home/leo/Documentos/Android/SlidingPaneLayoutProject/SlidingPaneLayout/build/classes/debug/com/dldev/activities/R$string.class
+1373952993000 3416 097086fa6720701c69bf1d6ab582793059545cbc /home/leo/Documentos/Android/SlidingPaneLayoutProject/SlidingPaneLayout/build/classes/debug/com/dldev/fragments/FragmentContainerInfo.class
+1373953598000 500 d628e0d388db993fabdf6a043ff5e72c8619e26d /home/leo/Documentos/Android/SlidingPaneLayoutProject/SlidingPaneLayout/build/classes/debug/com/dldev/activities/R$layout.class
+1373953598000 626 bce0db6c3bb7bc30a56d47901362030743eb19e9 /home/leo/Documentos/Android/SlidingPaneLayoutProject/SlidingPaneLayout/build/classes/debug/com/dldev/activities/R$id.class
+1373952659000 346 9b6ed893647ef2ebd7404ea8c0a49ffd4a280981 /home/leo/Documentos/Android/SlidingPaneLayoutProject/SlidingPaneLayout/build/classes/debug/com/dldev/activities/R$attr.class
+1373953598000 394 319a962c2ade6d03cf8c90cf9ddfc63b1ac728e6 /home/leo/Documentos/Android/SlidingPaneLayoutProject/SlidingPaneLayout/build/classes/debug/com/dldev/activities/R$menu.class
+1373953598000 797 c9e1ad678b2be2ebfa40a54dee05e5d7f8164a83 /home/leo/Documentos/Android/SlidingPaneLayoutProject/SlidingPaneLayout/build/classes/debug/com/dldev/activities/R.class
+1373952659000 486 ded0ae87ff78457625b25a439f67dfd7f64d8fd7 /home/leo/Documentos/Android/SlidingPaneLayoutProject/SlidingPaneLayout/build/classes/debug/com/dldev/activities/R$array.class
+1373949181000 3085 bc4183df5f4249226ada64337a2ad5a028c71dbe /home/leo/Documentos/Android/SlidingPaneLayoutProject/SlidingPaneLayout/build/classes/debug/com/dldev/activities/MainActivity.class
+1373856328000 176 acafac040615a87586439bed0f99dfbe68dbbb5a /home/leo/Documentos/Android/SlidingPaneLayoutProject/SlidingPaneLayout/build/classes/debug/com/dldev/interfaces/OnItemSelectedListener.class
+1373952659000 418 1e905acd9d66b95acbd784e1fe094711223a7c5a /home/leo/Documentos/Android/SlidingPaneLayoutProject/SlidingPaneLayout/build/classes/debug/com/dldev/activities/R$color.class
+1373953598000 624 a2dd83ba6216ab26b41dac364aee33ee7f691c96 /home/leo/Documentos/Android/SlidingPaneLayoutProject/SlidingPaneLayout/build/classes/debug/com/dldev/activities/R$dimen.class
+1373953598000 437 584c2de1871670e1c725eafeb2a7f1d3a8d60689 /home/leo/Documentos/Android/SlidingPaneLayoutProject/SlidingPaneLayout/build/classes/debug/com/dldev/activities/R$style.class
+1369432937000 490914 3fe75433da602500cc71fcc1c46e5550291dd45d /home/leo/Documentos/Android/android-studio/sdk/extras/android/m2repository/com/android/support/support-v4/13.0.0/support-v4-13.0.0.jar
+1373953598000 628 227b8cf5df66879fa6bbfc82104fb513c629acde /home/leo/Documentos/Android/SlidingPaneLayoutProject/SlidingPaneLayout/build/classes/debug/com/dldev/activities/R$drawable.class
+1373922724000 3185 3ea6a1dec3e6084cda07c5b2bdbcd58566d70f9a /home/leo/Documentos/Android/SlidingPaneLayoutProject/SlidingPaneLayout/build/classes/debug/com/dldev/fragments/FragmentPaneList.class
