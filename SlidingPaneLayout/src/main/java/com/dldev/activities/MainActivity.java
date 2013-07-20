@@ -60,7 +60,7 @@ public class MainActivity extends FragmentActivity implements OnItemSelectedList
         slidingPaneLayout.closePane();
         FragmentContainerInfo fragmentContainerInfo = (FragmentContainerInfo) getSupportFragmentManager().findFragmentByTag("fragment_container_info");
         if (fragmentContainerInfo != null) {
-            fragmentContainerInfo.updateIndex(index);
+            fragmentContainerInfo.updateContent(index);
         } else {
             fragmentTransaction.replace(R.id.container_fragment_content, FragmentContainerInfo.newInstance(index), "fragment_container_info");
             fragmentTransaction.commit();
